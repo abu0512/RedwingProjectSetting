@@ -4,14 +4,14 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: e05201eddeef02a40ba577498f67eea3
+  productGUID: 8eb6538051812ce429091cf012c3e248
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: RedwingProject
+  productName: TestSceen_redwing
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -47,7 +47,7 @@ PlayerSettings:
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
-  m_ActiveColorSpace: 0
+  m_ActiveColorSpace: 1
   m_MTRendering: 1
   m_MobileMTRendering: 0
   m_StackTraceTypes: 010000000100000001000000010000000100000001000000
@@ -66,7 +66,7 @@ PlayerSettings:
   disableDepthAndStencilBuffers: 0
   defaultIsFullScreen: 1
   defaultIsNativeResolution: 1
-  runInBackground: 0
+  runInBackground: 1
   captureSingleScreen: 0
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
@@ -501,7 +501,10 @@ PlayerSettings:
   webGLCompressionFormat: 1
   scriptingDefineSymbols:
     1: CROSS_PLATFORM_INPUT;UNITY_POST_PROCESSING_STACK_V1
+<<<<<<< HEAD
     2: CROSS_PLATFORM_INPUT
+=======
+>>>>>>> 7cf31b9a7b61ee23773e65f100bfc19c80dfd4e3
     4: CROSS_PLATFORM_INPUT;MOBILE_INPUT;UNITY_POST_PROCESSING_STACK_V1
     7: CROSS_PLATFORM_INPUT;MOBILE_INPUT;UNITY_POST_PROCESSING_STACK_V1
     13: UNITY_POST_PROCESSING_STACK_V1
@@ -511,7 +514,11 @@ PlayerSettings:
     19: UNITY_POST_PROCESSING_STACK_V1
     20: MOBILE_INPUT;UNITY_POST_PROCESSING_STACK_V1
     21: UNITY_POST_PROCESSING_STACK_V1
+<<<<<<< HEAD
     22: UNITY_POST_PROCESSING_STACK_V1
+=======
+    22: MOBILE_INPUT;UNITY_POST_PROCESSING_STACK_V1
+>>>>>>> 7cf31b9a7b61ee23773e65f100bfc19c80dfd4e3
     23: UNITY_POST_PROCESSING_STACK_V1
     24: UNITY_POST_PROCESSING_STACK_V1
     25: UNITY_POST_PROCESSING_STACK_V1
@@ -525,14 +532,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: RedwingProject
+  metroPackageName: TestSceen_redwing
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: RedwingProject
+  metroApplicationDescription: TestSceen_redwing
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -607,9 +614,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 7b13aedc-3b35-48fd-b325-02f9ef00f8c6
-  projectName: RedwingProject
-  organizationId: byunguk-ahn
+  cloudProjectId: 80fc1e37-0f32-4aa8-8c43-1eb750bea25f
+  projectName: TestSceen_redwing
+  organizationId: ckgame
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
