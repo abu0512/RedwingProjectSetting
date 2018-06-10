@@ -3,7 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Guard
+  - Queen
+  - Stm
+  - HP
+  - UI
+  - Boss
+  - StageManager
+  - Enemy
+  - Shild
+  - BulletPool
+  - ShildMushroom
+  - Rock
+  - Grass
+  - StatueObject
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -13,9 +28,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Berry
+  - tree
+  - object
   - 
   - 
   - 
