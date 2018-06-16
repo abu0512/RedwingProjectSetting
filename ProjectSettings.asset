@@ -4,14 +4,14 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: 8eb6538051812ce429091cf012c3e248
+  productGUID: f8eb175331397ce43b5349115b92796d
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: TestSceen_redwing
+  productName: Redwing6
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -66,7 +66,7 @@ PlayerSettings:
   disableDepthAndStencilBuffers: 0
   defaultIsFullScreen: 1
   defaultIsNativeResolution: 1
-  runInBackground: 1
+  runInBackground: 0
   captureSingleScreen: 0
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
@@ -501,10 +501,7 @@ PlayerSettings:
   webGLCompressionFormat: 1
   scriptingDefineSymbols:
     1: CROSS_PLATFORM_INPUT;UNITY_POST_PROCESSING_STACK_V1
-<<<<<<< HEAD
     2: CROSS_PLATFORM_INPUT
-=======
->>>>>>> 7cf31b9a7b61ee23773e65f100bfc19c80dfd4e3
     4: CROSS_PLATFORM_INPUT;MOBILE_INPUT;UNITY_POST_PROCESSING_STACK_V1
     7: CROSS_PLATFORM_INPUT;MOBILE_INPUT;UNITY_POST_PROCESSING_STACK_V1
     13: UNITY_POST_PROCESSING_STACK_V1
@@ -514,11 +511,7 @@ PlayerSettings:
     19: UNITY_POST_PROCESSING_STACK_V1
     20: MOBILE_INPUT;UNITY_POST_PROCESSING_STACK_V1
     21: UNITY_POST_PROCESSING_STACK_V1
-<<<<<<< HEAD
     22: UNITY_POST_PROCESSING_STACK_V1
-=======
-    22: MOBILE_INPUT;UNITY_POST_PROCESSING_STACK_V1
->>>>>>> 7cf31b9a7b61ee23773e65f100bfc19c80dfd4e3
     23: UNITY_POST_PROCESSING_STACK_V1
     24: UNITY_POST_PROCESSING_STACK_V1
     25: UNITY_POST_PROCESSING_STACK_V1
@@ -532,14 +525,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: TestSceen_redwing
+  metroPackageName: Redwing6
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: TestSceen_redwing
+  metroApplicationDescription: Redwing6
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -610,13 +603,12 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled:
-    UNet: 1
+  cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 80fc1e37-0f32-4aa8-8c43-1eb750bea25f
-  projectName: TestSceen_redwing
-  organizationId: ckgame
+  cloudProjectId: 
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
