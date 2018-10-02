@@ -6,11 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scene/NYR(MergeOnly).unity
-    guid: 03d4845bfeee35f47abd9d1c0275aca5
-  - enabled: 0
-    path: 
-    guid: bd673b636da87584ea228e01773b6359
-  - enabled: 0
-    path: Assets/Scene/KSW.unity
-    guid: f04d4bcf293ebe8439db58256325072b
+    path: Assets/Scene/ABU_2.unity
+    guid: a863d53340e0307459e29a9ebd840750
