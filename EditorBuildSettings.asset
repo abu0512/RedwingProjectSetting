@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scene/ABU_3.unity
     guid: 3ac671cf67b7cf4468f38d5f0e9eb1b9
   - enabled: 0
-    path: Assets/Scene/Ending.unity
+    path: Assets/Scene/ending.unity
     guid: 71dd107e4010ea54f9d85c40907ee621
   - enabled: 1
     path: Assets/Scene/Logo.unity
@@ -35,5 +35,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene/Title.unity
     guid: 5eb85877cc0fcad4e9cb66746f8885f8
-    path: Assets/Scene/JJTest.unity
-    guid: efade0b6157cc07458f1ffefc97fcad9
+  - enabled: 1
+    path: Assets/Scene/NYRA.unity
+    guid: 1735be66d32ff974d9fee0512a9bfb76
